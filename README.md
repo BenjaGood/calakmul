@@ -1,2 +1,2 @@
 # calakmul
-Este es un proyecto de la materia de POO del Tecnológico de Monterrey
+Este es un proyecto final de la materia de POO del Tecnológico de Monterrey
